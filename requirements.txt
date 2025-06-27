@@ -1,6 +1,4 @@
-scikit-learn
-pickle
+scikit-learn==1.6.1
 streamlit
-plotly
-pandas
-seaborn
+numpy==2.0.2
+
